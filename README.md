@@ -59,7 +59,7 @@ Run `python skills/wp-plugin-zip/scripts/test_wp_zip.py` to check it.
 
 **Una skill para Claude Code y Claude Desktop: Claude crea los .zip de plugins y temas de WordPress para que se instalen a la primera, y te dice por qué falla un zip.**
 
-Se acabó el *«El archivo del plugin no existe»* y el *«No se ha podido instalar el paquete. No se han encontrado plugins válidos»*.
+Se acabó el *«El archivo del plugin no existe»* y el *«No se ha podido descomprimir el paquete. No se encontraron plugins.»*.
 
 **Por qué.** Un zip que se abre bien en tu ordenador puede fallar en WordPress:
 
