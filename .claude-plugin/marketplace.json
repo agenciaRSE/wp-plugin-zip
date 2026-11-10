@@ -1,0 +1,19 @@
+{
+  "name": "wp-plugin-zip",
+  "owner": {
+    "name": "Diego Meijide (AGENCIA RSE)",
+    "url": "https://agenciarse.com"
+  },
+  "metadata": {
+    "description": "WP Plugin Zip: WordPress plugin and theme zips that install the first time."
+  },
+  "plugins": [
+    {
+      "name": "wp-plugin-zip",
+      "source": "./",
+      "description": "Builds and checks WordPress plugin and theme .zip files so they install the first time: no \"Plugin file does not exist\", no BOM, no zip of zips.",
+      "version": "1.0.0",
+      "category": "development"
+    }
+  ]
+}

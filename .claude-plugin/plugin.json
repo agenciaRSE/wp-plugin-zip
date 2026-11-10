@@ -1,0 +1,19 @@
+{
+  "name": "wp-plugin-zip",
+  "version": "1.0.0",
+  "description": "Builds and checks WordPress plugin and theme .zip files so they install the first time: no \"Plugin file does not exist\", no BOM, no zip of zips.",
+  "author": {
+    "name": "Diego Meijide (AGENCIA RSE)",
+    "url": "https://agenciarse.com"
+  },
+  "homepage": "https://agenciarse.com/en/claude-skills/wp-plugin-zip/",
+  "repository": "https://github.com/agenciaRSE/wp-plugin-zip",
+  "license": "MIT",
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "theme",
+    "zip",
+    "release"
+  ]
+}
